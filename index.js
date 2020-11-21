@@ -2,13 +2,13 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Aris187 ID).
 */
-const BotName = '🤖AR15BOT🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/_sadboy.ig'; // Nama Instagramlu cok
-const whatsapplu = 'Wa.me/+6285722553839'; // Nomor whatsapplu cok
+const BotName = '🤖R4M4DH4NKUKUH🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/ramadhankukuh'; // Nama Instagramlu cok
+const whatsapplu = 'Wa.me/+14092765147'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // OFFICIAL GRUP LU 2
-const grupch3 = 'https://instagram.com/_sadboy.ig'; // OFFICIAL GRUP LU 3
+
+
+
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -101,7 +101,7 @@ conn.sendMessage(group.gid, "hello everyone", MessageType.extendedText) // say h
 
 }
 
-// FF A187 ID
+// FF KUKUH
 if(text.includes("$cek")){
 var num = text.replace(/$cek/ , "")
 var idn = num.replace("0","+62");
@@ -114,7 +114,7 @@ console.log(exists);
 conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsApp`, MessageType.text)
 }
 
-//Chat A187 ID
+//Chat KUKUH
 else if (text == 'assalamualaikum'){
 conn.sendMessage(id, '3aalaikumsalam, Ketik #help/#info/#donasi Contoh #help' ,MessageType.text);
 }
