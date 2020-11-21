@@ -140,10 +140,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Gx boleh kasar lu Asw' ,MessageType.text);
 }
 else if (text == '$owner'){
-conn.sendMessage(id, 'Owner wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Owner wa.me/+14092765147' ,MessageType.text);
 }
 else if (text == '$creator'){
-conn.sendMessage(id, 'Creator wa.me/+6285733553839' ,MessageType.text);
+conn.sendMessage(id, 'Creator wa.me/+14092765147' ,MessageType.text);
 }
 else if (text == 'Aris'){
 conn.sendMessage(id, 'Aku BOT nya Aris' ,MessageType.text);
